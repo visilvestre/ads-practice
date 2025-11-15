@@ -5,7 +5,7 @@ Index
 =================
 -----
 - [Recursion](#recursion)
-
+- [Algorithm Cost and Complexity Function](#costandcomplexity)
 -----
 
 
