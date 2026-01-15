@@ -23,6 +23,6 @@ GitHub: visilvestre
 LinkedIn: www.linkedin.com/in/vilourenco
 
 Citations:
-- Based on lectures from Prof. [Jesús P. Mena Chalco](link="https://scholar.google.com/citations?user=tPWyJYEAAAAJ&hl=pt-BR")  </a> - UFABC from 2015
+- Based on lectures from Prof. [Jesús P. Mena Chalco](https://scholar.google.com/citations?user=tPWyJYEAAAAJ&hl=pt-BR) - UFABC from 2015
 - Cormen, Thomas R. Introduction to Algorithms Third Edition.
 - (Work In Progress)
