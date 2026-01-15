@@ -22,3 +22,5 @@ Created by: Vinícius Silvestre Lourenço
 GitHub: visilvestre
 LinkedIn: www.linkedin.com/in/vilourenco
 
+Citations:
+(WIP)
